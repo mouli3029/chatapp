@@ -1,0 +1,19 @@
+.messages {
+  padding: 5% 0;
+  overflow: auto;
+  flex: auto;
+  overflow-y: hidden;
+  margin-bottom: 40px;
+}
+.messages > div {
+  overflow-y: hidden !important;
+}
+.top {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.username {
+  color: #e83a59;
+  text-shadow: none;
+  letter-spacing: 0.1rem;
+}

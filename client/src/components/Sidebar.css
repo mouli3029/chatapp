@@ -1,0 +1,12 @@
+li {
+  list-style: none;
+}
+.contents {
+  text-align: center;
+}
+.li-item {
+  font-size: medium;
+}
+.contents_h1 {
+  text-decoration: underline;
+}
